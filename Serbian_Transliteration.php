@@ -5,6 +5,7 @@
  * @package   Serbian_Transliteration
  * @version   1.0.0
  * @author    Milan Dinić <blog.milandinic.com>
+ * @license   https://unlicense.org/ Unlicense
  * @link      https://github.com/dimadin/serbian-transliteration
  */
 
